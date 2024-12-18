@@ -19,6 +19,7 @@ I Created .net core Mvc Project with frontend to let you test all features with 
 2- If You Already Have Visual Studio.
 
     - open visual Studio installer (Download .net core 8).
+    
       ![1](https://github.com/user-attachments/assets/24fe31bf-cb47-42d4-9ae8-728f3fff7736)
 3- Open Visual studio and clone the project.
 
