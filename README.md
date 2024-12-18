@@ -33,6 +33,7 @@ I Created .net core Mvc Project with frontend to let you test all features with 
 ![Screenshot (4)](https://github.com/user-attachments/assets/0998c652-da72-471e-b8b8-ed9e2c2c4924)
 
 6- write the following command: dotnet restore
+
 ![6](https://github.com/user-attachments/assets/027b67f7-9d3e-48cf-803b-8db9f669c3fb)
 
 7- write the following command: update-database 
