@@ -35,6 +35,10 @@ I Created .net core Mvc Project with frontend to let you test all features with 
 6- write the following command: update-database.
 ![5](https://github.com/user-attachments/assets/6f540dcd-6e69-4262-a7d6-fc3bb2de431f)
 
-7- now you can run the project.
+7- now you can run the project (Live Images).
+![10](https://github.com/user-attachments/assets/048f605c-1566-42da-8111-35aa45170907)
+![11](https://github.com/user-attachments/assets/aed6a1e6-3a7d-4bae-83ec-827c6b7bb82f)
+![12](https://github.com/user-attachments/assets/902cbf15-d3b2-4d6f-8b2a-45e6ebbc6d2b)
+
 
 
