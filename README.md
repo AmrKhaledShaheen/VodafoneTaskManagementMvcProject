@@ -15,9 +15,14 @@ you have to change the connection string in appsetting file then update database
 * has controllers, View, and every view has 2 files one for css styling and the other for JavaScript both 2 files have the same name as view
 * Every Controller has service, views folder,ModelView folder, css file, JavaScript file with the same name
 
-#Step by step to run the Project
-* Download Visual Studio(.net core 8 Will be included Automatically)
-* If You Already Have Visual Studio
+# Step by step to run the Project
+1- Download Visual Studio(.net core 8 Will be included Automatically)
+2- If You Already Have Visual Studio
     - open visual Studio installer (Download .net core 8)
       ![1](https://github.com/user-attachments/assets/24fe31bf-cb47-42d4-9ae8-728f3fff7736)
+3- Open Visual studio and clone the project
+4- in file appsettings.json change the connection string to your own sql server
+5- open package manager console from (View) tab on the top
+6- write the following command: update-database
+7- now you can run the project
 
