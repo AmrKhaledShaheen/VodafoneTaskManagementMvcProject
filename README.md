@@ -32,10 +32,14 @@ I Created .net core Mvc Project with frontend to let you test all features with 
 5- open package manager console from (View) tab on the top.
 ![Screenshot (4)](https://github.com/user-attachments/assets/0998c652-da72-471e-b8b8-ed9e2c2c4924)
 
-6- write the following command: update-database.
-![5](https://github.com/user-attachments/assets/6f540dcd-6e69-4262-a7d6-fc3bb2de431f)
+6- write the following command: dotnet restore
+![6](https://github.com/user-attachments/assets/027b67f7-9d3e-48cf-803b-8db9f669c3fb)
 
-7- now you can run the project (Live Images).
+7- write the following command: update-database 
+  - remember to change the default project in package manager console to (Infrastructure Project) as this project contains database files
+![7](https://github.com/user-attachments/assets/25589063-b3fd-4bba-8239-50fda79ce450)
+
+8- now you can run the project on IIS or HTTP (Don't use HTTPS) (Live Images).
 ![10](https://github.com/user-attachments/assets/048f605c-1566-42da-8111-35aa45170907)
 ![11](https://github.com/user-attachments/assets/aed6a1e6-3a7d-4bae-83ec-827c6b7bb82f)
 ![12](https://github.com/user-attachments/assets/902cbf15-d3b2-4d6f-8b2a-45e6ebbc6d2b)
